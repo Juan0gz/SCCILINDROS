@@ -659,7 +659,7 @@ html {
 @media screen and (max-width:600px){
     .about-section{
        
-        padding: 0;
+        padding: 10;
         
     }
     .inner-container{
