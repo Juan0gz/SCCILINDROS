@@ -194,7 +194,12 @@ nav .fa{
     padding-top: 100px;
 
 }
+@media screen and (max-width:600px){
+    .text-box p{
+        font-size: 10px;
+    }
 
+}
 h1{
     font-size: 36px;
     font-weight: 600;
@@ -654,13 +659,18 @@ html {
 @media screen and (max-width:600px){
     .about-section{
        
-        padding: 0;
+        padding: 10;
         
     }
     .inner-container{
-        padding: 60%;
+        padding: 10%;
+    }
+    .inner-container .text{
+        text-align: left;
     }
 }
+
+
 
 .two-columns-grid{
     z-index: 1;
