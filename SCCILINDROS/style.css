@@ -764,6 +764,45 @@ html {
     
 }
 
+
+@media screen and (max-width: 320px){
+    .two-columns-grid {
+       
+        padding: 10%;
+        
+        
+       
+        
+       
+    
+        
+        
+    }
+    .two-columns-grid .Jeremias {
+           
+        box-shadow: none;
+        
+      
+        
+    }
+    .two-columns-grid .Eduardo {
+           
+        box-shadow: none;
+        
+        
+      
+        
+    }
+    
+  
+        
+        
+      
+        
+    
+}
+
+
 @media (min-width:768px){
     .two-columns-grid >  *{
         width: 50%;
